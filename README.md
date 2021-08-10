@@ -13,6 +13,7 @@ Repository to achieve links and materials for nice technical information in clou
 - [Site-to-site VPN between GCP and AWS with dynamic BGP routing](https://oleg-pershin.medium.com/site-to-site-vpn-between-gcp-and-aws-with-dynamic-bgp-routing-7d7e0366036d)
 - [TUTORIAL: CREATING A MULTI-CLOUD VPN WITH TERRAFORM BETWEEN AWS, GCP, AND AZURE](https://www.silect.is/blog/multi-cloud-vpn-terraform/)
 - [GCP Cloud Router overview - Examples of route advertisements](https://cloud.google.com/network-connectivity/docs/router/concepts/overview#examples_of_route_advertisements)
+- [Automated Network Deployment: Building a VPN Between GCP and AWS with Terraform](https://cloud.google.com/architecture/automated-network-deployment-multicloud)
 - [AWS Site-to-Site VPN (Korean)](https://docs.aws.amazon.com/ko_kr/vpn/latest/s2svpn/s2s-vpn-user-guide.pdf)
 - 
 
