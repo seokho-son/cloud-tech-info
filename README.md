@@ -6,6 +6,7 @@ Repository to achieve links and materials for nice technical information in clou
 - [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
 - [Private server to server network with ansible and wireguard](https://github.com/mawalu/wireguard-private-networking)
 - [Kubernetes Calico Mode Chanage (Korean)](https://cwal.tistory.com/12)
+- [Calico IP pool](https://docs.projectcalico.org/reference/resources/ippool): Calico IP pool 모드에 대한 공식 정보
 
 ## Site-to-Site VPN across multiple clouds
 - [Site-to-Site VPN Between GCP and AWS Cloud](https://www.linkedin.com/pulse/site-to-site-vpn-between-gcp-aws-cloud-aslam-chandio/?articleId=6668922995207086080)
